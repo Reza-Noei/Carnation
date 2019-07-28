@@ -1,0 +1,9 @@
+H:\Carnation\ServiceProvider\bin\Debug\netcoreapp2.2\ServiceProvider.deps.json
+H:\Carnation\ServiceProvider\bin\Debug\netcoreapp2.2\ServiceProvider.dll
+H:\Carnation\ServiceProvider\bin\Debug\netcoreapp2.2\ServiceProvider.pdb
+H:\Carnation\ServiceProvider\obj\Debug\netcoreapp2.2\ServiceProvider.csprojAssemblyReference.cache
+H:\Carnation\ServiceProvider\obj\Debug\netcoreapp2.2\ServiceProvider.csproj.CoreCompileInputs.cache
+H:\Carnation\ServiceProvider\obj\Debug\netcoreapp2.2\ServiceProvider.AssemblyInfoInputs.cache
+H:\Carnation\ServiceProvider\obj\Debug\netcoreapp2.2\ServiceProvider.AssemblyInfo.cs
+H:\Carnation\ServiceProvider\obj\Debug\netcoreapp2.2\ServiceProvider.dll
+H:\Carnation\ServiceProvider\obj\Debug\netcoreapp2.2\ServiceProvider.pdb

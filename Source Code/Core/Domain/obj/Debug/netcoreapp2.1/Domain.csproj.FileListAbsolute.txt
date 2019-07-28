@@ -1,0 +1,9 @@
+H:\Carnation\Source Code\Core\Domain\bin\Debug\netcoreapp2.1\Domain.deps.json
+H:\Carnation\Source Code\Core\Domain\bin\Debug\netcoreapp2.1\Domain.dll
+H:\Carnation\Source Code\Core\Domain\bin\Debug\netcoreapp2.1\Domain.pdb
+H:\Carnation\Source Code\Core\Domain\obj\Debug\netcoreapp2.1\Domain.csprojAssemblyReference.cache
+H:\Carnation\Source Code\Core\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CoreCompileInputs.cache
+H:\Carnation\Source Code\Core\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
+H:\Carnation\Source Code\Core\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
+H:\Carnation\Source Code\Core\Domain\obj\Debug\netcoreapp2.1\Domain.dll
+H:\Carnation\Source Code\Core\Domain\obj\Debug\netcoreapp2.1\Domain.pdb

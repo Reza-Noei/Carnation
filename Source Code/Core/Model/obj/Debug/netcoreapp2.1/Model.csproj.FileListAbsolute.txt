@@ -1,0 +1,9 @@
+H:\Carnation\Source Code\Core\Model\bin\Debug\netcoreapp2.1\Model.deps.json
+H:\Carnation\Source Code\Core\Model\bin\Debug\netcoreapp2.1\Model.dll
+H:\Carnation\Source Code\Core\Model\bin\Debug\netcoreapp2.1\Model.pdb
+H:\Carnation\Source Code\Core\Model\obj\Debug\netcoreapp2.1\Model.csprojAssemblyReference.cache
+H:\Carnation\Source Code\Core\Model\obj\Debug\netcoreapp2.1\Model.csproj.CoreCompileInputs.cache
+H:\Carnation\Source Code\Core\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfoInputs.cache
+H:\Carnation\Source Code\Core\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfo.cs
+H:\Carnation\Source Code\Core\Model\obj\Debug\netcoreapp2.1\Model.dll
+H:\Carnation\Source Code\Core\Model\obj\Debug\netcoreapp2.1\Model.pdb

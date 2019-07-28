@@ -1,0 +1,9 @@
+H:\Carnation\Logic\bin\Debug\netcoreapp2.1\Logic.deps.json
+H:\Carnation\Logic\bin\Debug\netcoreapp2.1\Logic.dll
+H:\Carnation\Logic\bin\Debug\netcoreapp2.1\Logic.pdb
+H:\Carnation\Logic\obj\Debug\netcoreapp2.1\Logic.csprojAssemblyReference.cache
+H:\Carnation\Logic\obj\Debug\netcoreapp2.1\Logic.csproj.CoreCompileInputs.cache
+H:\Carnation\Logic\obj\Debug\netcoreapp2.1\Logic.AssemblyInfoInputs.cache
+H:\Carnation\Logic\obj\Debug\netcoreapp2.1\Logic.AssemblyInfo.cs
+H:\Carnation\Logic\obj\Debug\netcoreapp2.1\Logic.dll
+H:\Carnation\Logic\obj\Debug\netcoreapp2.1\Logic.pdb

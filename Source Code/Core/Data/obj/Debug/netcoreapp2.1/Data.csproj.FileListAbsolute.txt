@@ -1,0 +1,16 @@
+H:\Carnation\Source Code\Core\Data\bin\Debug\netcoreapp2.1\Data.deps.json
+H:\Carnation\Source Code\Core\Data\bin\Debug\netcoreapp2.1\Data.dll
+H:\Carnation\Source Code\Core\Data\bin\Debug\netcoreapp2.1\Data.pdb
+H:\Carnation\Source Code\Core\Data\obj\Debug\netcoreapp2.1\Data.csprojAssemblyReference.cache
+H:\Carnation\Source Code\Core\Data\obj\Debug\netcoreapp2.1\Data.csproj.CoreCompileInputs.cache
+H:\Carnation\Source Code\Core\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfoInputs.cache
+H:\Carnation\Source Code\Core\Data\obj\Debug\netcoreapp2.1\Data.AssemblyInfo.cs
+H:\Carnation\Source Code\Core\Data\obj\Debug\netcoreapp2.1\Data.dll
+H:\Carnation\Source Code\Core\Data\obj\Debug\netcoreapp2.1\Data.pdb
+H:\Carnation\Source Code\Core\Data\bin\Debug\netcoreapp2.1\Data.runtimeconfig.json
+H:\Carnation\Source Code\Core\Data\bin\Debug\netcoreapp2.1\Data.runtimeconfig.dev.json
+H:\Carnation\Source Code\Core\Data\bin\Debug\netcoreapp2.1\Common.dll
+H:\Carnation\Source Code\Core\Data\bin\Debug\netcoreapp2.1\Domain.dll
+H:\Carnation\Source Code\Core\Data\bin\Debug\netcoreapp2.1\Common.pdb
+H:\Carnation\Source Code\Core\Data\bin\Debug\netcoreapp2.1\Domain.pdb
+H:\Carnation\Source Code\Core\Data\obj\Debug\netcoreapp2.1\Data.csproj.CopyComplete

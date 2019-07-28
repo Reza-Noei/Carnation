@@ -1,0 +1,9 @@
+H:\Carnation\Common\bin\Debug\netcoreapp2.1\Common.deps.json
+H:\Carnation\Common\bin\Debug\netcoreapp2.1\Common.dll
+H:\Carnation\Common\bin\Debug\netcoreapp2.1\Common.pdb
+H:\Carnation\Common\obj\Debug\netcoreapp2.1\Common.csproj.CoreCompileInputs.cache
+H:\Carnation\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfoInputs.cache
+H:\Carnation\Common\obj\Debug\netcoreapp2.1\Common.AssemblyInfo.cs
+H:\Carnation\Common\obj\Debug\netcoreapp2.1\Common.dll
+H:\Carnation\Common\obj\Debug\netcoreapp2.1\Common.pdb
+H:\Carnation\Common\obj\Debug\netcoreapp2.1\Common.csprojAssemblyReference.cache

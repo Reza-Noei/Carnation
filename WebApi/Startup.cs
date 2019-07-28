@@ -1,17 +1,21 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Filters;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.FileProviders;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
+using Swashbuckle.AspNetCore.Swagger;
+using WebAPI.Filters;
 
-namespace WebApi
+namespace WebAPI
 {
     public class Startup
     {
@@ -25,7 +29,16 @@ namespace WebApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddMvc(options =>
+                            {
+                                    options.Filters.Add(new AuthorizationFilter());
+                                    options.Filters.Add(new ActionFilter());
+                            }).SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+
+            services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new Info { Title = "Carnation API", Version = "v0.1" });               
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -35,12 +48,12 @@ namespace WebApi
             {
                 app.UseDeveloperExceptionPage();
             }
-            else
+            app.UseSwagger();
+            app.UseSwaggerUI(c =>
             {
-                app.UseHsts();
-            }
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Carnation API V0.1");
+            });
 
-            app.UseHttpsRedirection();
             app.UseMvc();
         }
     }
